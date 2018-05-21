@@ -1,4 +1,4 @@
-# Dyslexsee
+# DyslexSee
 
 
 Overview of the application:
