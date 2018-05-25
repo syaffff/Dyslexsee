@@ -46,7 +46,7 @@ This libraries or plugin is required when developing this Dyslexsee application:
 5.	targetSdkVersion = 26
 6.	versionCode = 1
 7.	Connection for database = compile files (‘libs/mysql-connector-java-5.1.46-bin.jar’)
-8.	Voice Recognition = android.speech.tts.TextToSpeech
+8.	Voice Output = android.speech.tts.TextToSpeech
 9.	Dependencies = implementation ‘com.android.support:design:26.1.0’
 
 
