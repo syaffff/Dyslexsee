@@ -16,6 +16,7 @@ import java.sql.SQLException;
 
 public class DbConnection {
     String classs = "com.mysql.jdbc.Driver";
+    //URL Connection for the databse
     String url = "jdbc:mysql://192.168.0.119/dyslexsee";
     //String url = "jdbc:mysql://192.168.0.103/dyslexsee"; //rifhanupdated
     //String url = "jdbc:mysql://192.168.0.101/dyslexsee"; //rifhan kat utem
